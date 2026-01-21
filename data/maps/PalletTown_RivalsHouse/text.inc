@@ -38,8 +38,8 @@ PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
     .string "Now this would be useful!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
-    .string "The shelves are crammed full of\n"
-    .string "books on POKéMON.$"
+    .string "Hi foruli libris de POKéMONibus\n"
+    .string "pleni sunt.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "DAISY: Hi, {PLAYER}!\n"
@@ -48,7 +48,7 @@ PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "Would you like to join me?\p"
     .string "Oh, but look.\n"
     .string "Your POKéMON are a little dirty.\p"
-    .string "Would you like me to groom one?$"
+    .string "Velis me to groom one?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
     .string "You don't need any grooming done?\n"
@@ -90,8 +90,8 @@ PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
     .string "words.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
-    .string "It looks very happy.\p"
-    .string "I wish {RIVAL} could see this and\n"
+    .string "Felicissimus videtur.\p"
+    .string "Velim {RIVAL} could see this and\n"
     .string "learn something from it.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::

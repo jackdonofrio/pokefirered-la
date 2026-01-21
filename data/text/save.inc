@@ -1,16 +1,16 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+	.string "Velisne ludum servare?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Fasciculus iam exstat.\n"
+	.string "Licetne superscribere?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "SERVANS…\n"
+	.string "NOLI EXTINGUERE VIM MACHINAE.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} ludum servavit.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"

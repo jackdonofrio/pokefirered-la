@@ -191,7 +191,7 @@ gOakSpeech_Text_WelcomeToTheWorld::
     .string "Glad to meet you!\p"
     .string "Welcome to the world of POKéMON!\p"
     .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
+    .string "People amanter vocant me\n"
     .string "as the POKéMON PROFESSOR.\p$"
 
 gOakSpeech_Text_ThisWorld::
@@ -216,24 +216,24 @@ gOakSpeech_Text_YourNameWhatIsIt::
     .string "What is it?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
+    .string "Bene…\n"
     .string "So your name is {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "Hic est nepos meus.\p"
+    .string "Tibi aemulatur ab infantia\n"
+    .string "vestra.\p"
+    .string "Quid nomen ei est? Oblitus sum.$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "Quid est nomen aemuli tui?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "Estne {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "Ita est! Nunc memini!\n"
+    .string "Nomen eius {RIVAL} est!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"

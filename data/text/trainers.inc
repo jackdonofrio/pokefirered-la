@@ -15,7 +15,7 @@ VSSeeker_Text_TrainersNotReady::
 
 Route3_Text_ColtonRematchIntro::
 	.string "Hey!\n"
-	.string "I saw you in VIRIDIAN FOREST!$"
+	.string "Te vidi in SILVA VIRIDIS!$"
 
 Route3_Text_BenRematchIntro::
 	.string "Hi! I like shorts!\n"

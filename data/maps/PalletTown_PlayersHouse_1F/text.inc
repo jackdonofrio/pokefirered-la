@@ -1,38 +1,38 @@
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All boys leave home someday.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "MAT.: …Sane.\n"
+    .string "Omnes pueri aliquando domo exeunt.\l"
+    .string "Sic dixit televisio.\p"
+    .string "Ah. PROF. Quercus, vicinus,\n"
+    .string "te quaerebat.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All girls dream of traveling.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "MAT.: …Sane.\n"
+    .string "Omnes puellae peregrinari cupiunt.\l"
+    .string "Sic dixit televisio.\p"
+    .string "Ah. PROF. Quercus, vicinus,\n"
+    .string "te quaerebat.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-    .string "MOM: {PLAYER}!\n"
-    .string "You should take a quick rest.$"
+    .string "MAT.: {PLAYER}!\n"
+    .string "Paulum requiescere debes.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-    .string "MOM: Oh, good! You and your\n"
-    .string "POKéMON are looking great.\l"
-    .string "Take care now!$"
+    .string "MAT.: Bene! Tu et POKéMONa\n"
+    .string "tua optime videmini.\l"
+    .string "Optima fortuna tecum sit!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-    .string "There's a movie on TV.\n"
-    .string "Four boys are walking on railroad\l"
-    .string "tracks.\p"
-    .string "…I better go, too.$"
+    .string "Est fabula in televisione.\n"
+    .string "Quattor pueri in via\l"
+    .string "ambulant.\p"
+    .string "…etiam mihi ire oportet.$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-    .string "There's a movie on TV.\n"
-    .string "A girl with her hair in pigtails is\l"
-    .string "walking up a brick road.\p"
-    .string "…I better go, too.$"
+    .string "Est fabula in televisione.\n"
+    .string "Puella flavis capillis\l"
+    .string "in via lapidea ambulat.\p"
+    .string "…etiam mihi ire oportet.$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-    .string "Oops, wrong side…$"
+    .string "Vah, latus falsum…$"
 

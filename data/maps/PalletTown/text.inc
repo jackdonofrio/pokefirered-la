@@ -1,22 +1,22 @@
 PalletTown_Text_OakDontGoOut::
-    .string "OAK: Hey! Wait!\n"
-    .string "Don't go out!$"
+    .string "OAK: Heus! Mane!\n"
+    .string "Noli egredi!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "OAK: It's unsafe!\n"
-    .string "Wild POKéMON live in tall grass!\p"
-    .string "You need your own POKéMON for\n"
-    .string "your protection.\p"
-    .string "I know!\n"
-    .string "Here, come with me!$"
+    .string "OAK: Non tutum ibi est! Fera\n"
+    .string "POKéMONa gramen altum incolunt!\p"
+    .string "Necesse est tibi habere\n"
+    .string "POKéMONa pro praesidio.\p"
+    .string "Scio quid faciendum sit!\n"
+    .string "Sequere me!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "I'm raising POKéMON, too.\p"
-    .string "When they get strong, they can\n"
-    .string "protect me.$"
+    .string "Ego etiam POKéMONa educo.\p"
+    .string "Cum viguerint, me defendere\n"
+    .string "poterunt.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "Technology is incredible!\p"
+    .string "Quam mirabile artificium est!\p"
     .string "You can now store and recall items\n"
     .string "and POKéMON as data via PC.$"
 
@@ -24,10 +24,10 @@ PalletTown_Text_OakPokemonResearchLab::
     .string "OAK POKéMON RESEARCH LAB$"
 
 PalletTown_Text_PlayersHouse::
-    .string "{PLAYER}'s house$"
+    .string "Domus tua$"
 
 PalletTown_Text_RivalsHouse::
-    .string "{RIVAL}'s house$"
+    .string "Domus aemuli tui$"
 
 PalletTown_Text_TownSign::
     .string "PALLET TOWN\n"
@@ -39,22 +39,22 @@ PalletTown_Text_OakLetMeSeePokedex::
     .string "How much have you filled in your\n"
     .string "POKéDEX?\p"
     .string "May I see it?\p"
-    .string "Let's see…$"
+    .string "Videamus…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
-    .string "You've caught {STR_VAR_2}…\p"
-    .string "Hm, it looks as if you're putting\n"
+    .string "Cepisti {STR_VAR_2}…\p"
+    .string "Hm, videtur as if you're putting\n"
     .string "in an honest effort.\p"
     .string "When you manage to fill it some\n"
     .string "more, come show me, please.$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-    .string "You've caught… {STR_VAR_2}!?\n"
+    .string "Cepisti… {STR_VAR_2}!?\n"
     .string "Now, this is impressive!\p"
-    .string "There's something I wanted to ask\n"
-    .string "of you, {PLAYER}.\p"
-    .string "Come.\n"
-    .string "Follow me.$"
+    .string "Aliquid te rogare velim,\n"
+    .string "{PLAYER}.\p"
+    .string "Veni.\n"
+    .string "Sequere me.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
     .string "OAK: Ah, {PLAYER}!\n"

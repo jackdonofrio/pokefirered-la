@@ -1,8 +1,8 @@
 @ The text here is a copy/paste from Hoenn's Safari Zone, and any unused text was left untranslated
 
 SafariZone_Text_WouldYouLikeToExit::
-	.string "Would you like to exit the SAFARI\n"
-	.string "ZONE right now?$"
+	.string "Velisne nunc exire SAFARI\n"
+	.string "ZONE?$"
 
 SafariZone_Text_TimesUp::
 	.string "PA: Ding-dong!\p"

@@ -6,7 +6,7 @@ CeladonCity_GameCorner_Text_TryPokemonPrinter::
 	.string "Would you like to try it?$"
 
 CeladonCity_GameCorner_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "Non habes satis pecuniae.$"
 
 CeladonCity_GameCorner_Text_ChoosePrintType::
 	.string "Please choose the print type.$"

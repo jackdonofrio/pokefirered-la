@@ -1,30 +1,30 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only {PLAYER}?\n"
-    .string "Gramps isn't around.$"
+    .string "{RIVAL}: Quid? Tantumne {PLAYER} est?\n"
+    .string "Avus Quercus abest.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Gramps!\n"
-    .string "I'm fed up with waiting!$"
+    .string "{RIVAL}: Ave!\n"
+    .string "Iam satis exspectavi!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Hey! Gramps! No fair!\n"
-    .string "What about me?$"
+    .string "{RIVAL}: Heu! Ave! Non aequum!\n"
+    .string "Quid autem mihi?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
-    .string "{RIVAL}: Heh, I don't need to be\n"
-    .string "greedy like you. I'm mature!\p"
-    .string "Go ahead and choose, {PLAYER}!$"
+    .string "{RIVAL}: Heh, non tam avarus sum\n"
+    .string "quam tu es. Ego enim temperans sum!\p"
+    .string "Age, elige, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
     .string "{RIVAL}: I'll take this one, then!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-    .string "{RIVAL} received the {STR_VAR_1}\n"
+    .string "{RIVAL} {STR_VAR_1} accepit\n"
     .string "from PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
     .string "{RIVAL}: My POKéMON looks a lot\n"
-    .string "tougher than yours.$"
+    .string "fortior than yours.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
     .string "{RIVAL}: Wait, {PLAYER}!\n"
@@ -32,14 +32,14 @@ PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
     .string "Come on, I'll take you on!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-    .string "WHAT?\n"
-    .string "Unbelievable!\l"
-    .string "I picked the wrong POKéMON!$"
+    .string "QUID?\n"
+    .string "Incredibile!\l"
+    .string "Elegi the wrong POKéMON!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
     .string "{RIVAL}: Yeah!\n"
-    .string "Am I great or what?$"
+    .string "Nonne fortis sum?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
     .string "{RIVAL}: Okay! I'll make my\n"
@@ -65,29 +65,29 @@ PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
     .string "from my sis!\p"
     .string "I'll tell her not to lend you one,\n"
     .string "{PLAYER}! Hahaha!\p"
-    .string "Don't bother coming around to\n"
+    .string "Noli venire to\n"
     .string "my place after this!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
     .string "OAK: {RIVAL}?\n"
-    .string "Let me think…\p"
-    .string "Oh, that's right, I told you to\n"
-    .string "come! Just wait!\p"
+    .string "Cogitemus…\p"
+    .string "Oh, that's right, rogavi te\n"
+    .string "venire! Just wait!\p"
     .string "Here, {PLAYER}.\p"
     .string "There are three POKéMON here.\p"
     .string "Haha!\p"
     .string "The POKéMON are held inside\n"
     .string "these POKé BALLS.\p"
-    .string "When I was young, I was a serious\n"
+    .string "Cum iuvenis essem, I was a serious\n"
     .string "POKéMON TRAINER.\p"
-    .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
-    .string "You can have one.\n"
-    .string "Go on, choose!$"
+    .string "Nunc autem, in senectute mea,\n"
+    .string "tantum tres reliquas habeo.\p"
+    .string "Unum habeas.\n"
+    .string "Age, elige!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
-    .string "OAK: Be patient, {RIVAL}.\n"
-    .string "You can have one, too!$"
+    .string "OAK: Patienter age, {RIVAL}.\n"
+    .string "Tu etiam capias unum!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
     .string "OAK: Now, {PLAYER}.\p"
@@ -97,8 +97,8 @@ PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
     .string "yourself?$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
-    .string "OAK: Hey!\n"
-    .string "Don't go away yet!$"
+    .string "OAK: Heus!\n"
+    .string "Noli adhuc egredi!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
     .string "Ah! CHARMANDER is your choice.\n"
@@ -127,10 +127,10 @@ PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
     .string "from PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
-    .string "OAK: If a wild POKéMON appears,\n"
-    .string "your POKéMON can battle it.\p"
-    .string "With it at your side, you should be\n"
-    .string "able to reach the next town.$"
+    .string "OAK: Si ferum POKéMON apparet,\n"
+    .string "POKéMON tuus illud pugnare potest.\p"
+    .string "Cum eo juxta te, ad proximum\n"
+    .string "oppidum pervenire possis.$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
     .string "OAK: {PLAYER}, raise your young\n"
@@ -139,13 +139,13 @@ PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
     .string "OAK: Oh, {PLAYER}!\n"
-    .string "How is my old POKéMON?\p"
+    .string "Quanti anni POKéMONi meo sunt?\p"
     .string "Well, it seems to be growing more\n"
     .string "attached to you.\p"
     .string "You must be talented as a POKéMON\n"
     .string "TRAINER.\p"
-    .string "What's that?\n"
-    .string "You have something for me?$"
+    .string "Quid est hoc?\n"
+    .string "Habesne aliquid mihi?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
     .string "{PLAYER} delivered OAK'S PARCEL.$"
@@ -153,18 +153,18 @@ PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "Ah! \n"
     .string "It's the custom POKé BALL!\p"
-    .string "I had it on order.\n"
-    .string "Thank you!$"
+    .string "Ego illud emeram.\n"
+    .string "Gratias tibi ago!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
     .string "OAK: Oh, right!\n"
     .string "I have a request for you two.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-    .string "On the desk there is my invention,\n"
+    .string "Super mensam est inventum meum,\n"
     .string "the POKéDEX!\p"
-    .string "It automatically records data on\n"
-    .string "POKéMON you've seen or caught.\p"
+    .string "It automatically records data de\n"
+    .string "POKéMONibus quae vidisti vel cepisti.\p"
     .string "It's a high-tech encyclopedia!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
@@ -184,10 +184,10 @@ PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "catching wild POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-    .string "{PLAYER} received five POKé BALLS.$"
+    .string "{PLAYER} quinque POKé BALLS accepit.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-    .string "When a wild POKéMON appears,\n"
+    .string "Cum POKéMON ferum appareat,\n"
     .string "it's fair game.\p"
     .string "Just throw a POKé BALL at it and\n"
     .string "try to catch it!\p"
@@ -216,9 +216,9 @@ PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "How is your POKéDEX shaping up?\p"
     .string "{RIVAL} has already caught some\n"
     .string "POKéMON and added to the data.\p"
-    .string "So, {PLAYER}, let's have a look at\n"
-    .string "your POKéDEX.\p"
-    .string "…What's the matter?\n"
+    .string "So, {PLAYER}, Pokédecem tuum\n"
+    .string "inspiciamus.\p"
+    .string "…Quid?\n"
     .string "You've added no new data at all.\p"
     .string "I'll give you these, so do try a\n"
     .string "little harder.$"
@@ -229,7 +229,7 @@ PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
     .string "POKéDEX is coming along.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
-    .string "It's like an encyclopedia, but the\n"
+    .string "Similis encyclopediae est, but the\n"
     .string "pages are blank.$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::

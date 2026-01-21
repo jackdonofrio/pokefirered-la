@@ -1,10 +1,10 @@
 PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
-    .string "{PLAYER} played with the NES.\p"
-    .string "…Okay!\n"
-    .string "It's time to go!$"
+    .string "{PLAYER} cum NES lusit.\p"
+    .string "…Bene!\n"
+    .string "Nunc mihi exeundum est!$"
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
-    .string "It's a posted notice…\p"
-    .string "If you're confused, ask for HELP!\n"
-    .string "Press the L or R Button!$"
+    .string "Est titulus affixus…\p"
+    .string "Si confundaris, pete auxilium!\n"
+    .string "Preme globulum L vel R!$"
 
